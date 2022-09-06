@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 105.0.0.0,,,2022-09-05 14:44:07,2022-09-05 14:44:10,3.520s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 105.0.0.0,,,2022-09-05 14:44:07,2022-09-05 14:44:10,3.234s,PASSED
+"openBrowser("""")",Chrome 105.0.0.0,,,2022-09-05 14:44:07,2022-09-05 14:44:10,2.782s,PASSED
+closeBrowser(),Chrome 105.0.0.0,,,2022-09-05 14:44:10,2022-09-05 14:44:10,0.151s,PASSED

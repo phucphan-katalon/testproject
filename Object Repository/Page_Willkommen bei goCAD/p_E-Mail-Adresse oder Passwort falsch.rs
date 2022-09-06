@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_E-Mail-Adresse oder Passwort falsch</name>
+   <tag></tag>
+   <elementGuidId>68498711-cdbb-4150-a0c2-8414cce638e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loginForm']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fd6a7cb7-df32-45d5-acd3-ba5da583def2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>c3d04506-80fc-4c74-b153-a1dc5c23bc36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>E-Mail-Adresse oder Passwort falsch</value>
+      <webElementGuid>137dfcec-c0eb-4454-9164-f9fe3d1a182d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginForm&quot;)/div[@class=&quot;m-top-200&quot;]/p[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>6e02e53e-4b7f-4a98-a53d-b4fc60fc8f17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginForm']/div/p</value>
+      <webElementGuid>52d753c1-4e05-48c3-9a04-34cdd6506162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Mail-Adresse'])[1]/preceding::p[1]</value>
+      <webElementGuid>aa840119-1971-4e9b-95e6-d0135396883a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passwort'])[1]/preceding::p[1]</value>
+      <webElementGuid>0364d149-fa29-4fff-b404-fb7a89c08185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='E-Mail-Adresse oder Passwort falsch']/parent::*</value>
+      <webElementGuid>e254c923-1d27-4a1e-a8b1-f536debc2307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>0c57e59e-08fa-4667-9ab7-4b7dc5a2756c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'E-Mail-Adresse oder Passwort falsch' or . = 'E-Mail-Adresse oder Passwort falsch')]</value>
+      <webElementGuid>5afba804-f0eb-4923-bcf4-7522237e5ea6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
